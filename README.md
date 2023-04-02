@@ -1,7 +1,6 @@
 # Go For It Tutorial
-Go For It Tutorial: A comprehensive and beginner-friendly guide to learning the Go programming language, covering core concepts, best practices, and real-world applications 🧡
+Go For It Tutorial: This repository contains a comprehensive Go tutorial, designed to help you learn the Go programming language from scratch. The tutorial covers various topics, starting with the basics and advancing towards more complex concepts 🧡
 
-This repository contains a comprehensive Go tutorial, designed to help you learn the Go programming language from scratch. The tutorial covers various topics, starting with the basics and advancing towards more complex concepts.
 ## Table of Contents
 
 1. [Introduction to Go](https://github.com/nagstler/Go-For-It-Tutorial#introduction-to-go)
