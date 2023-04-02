@@ -87,3 +87,24 @@ Go For It Tutorial: This repository contains a comprehensive Go tutorial, design
 - Official documentation
 - Books, articles, and videos
 - Community and learning resources
+
+```go
+
+go-for-it-tutorial/
+├── introduction-to-go/
+├── environment-setup/
+├── hello-world/
+├── variables-and-data-types/
+├── control-structures/
+├── functions/
+├── packages-and-imports/
+├── structs-and-interfaces/
+├── error-handling/
+├── concurrency/
+├── channels/
+├── file-io/
+├── testing/
+├── web-development/
+├── database-access/
+└── advanced-topics/
+```
